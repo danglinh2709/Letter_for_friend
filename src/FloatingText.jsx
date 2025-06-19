@@ -16,13 +16,6 @@ const messages = [
   "You're not just a friend, you're my soul twin.",
   "I believe in you, always.",
   "Thank you for simply being you.",
-  //   "I’ll always cheer you on.",
-  //   "You're the reason I smile.",
-  //   "You’re irreplaceable.",
-  //   "You make my life better.",
-  //   "Your friendship is a treasure.",
-  //   "Together, we shine.",
-  //   "I always feel heard with you.",
 ];
 
 function FloatingText() {
