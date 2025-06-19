@@ -1,8 +1,7 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { FaHeart } from "react-icons/fa";
 import "./HeartLetter.css";
 import FloatingText from "./FloatingText";
-import QRCodeGenerator from "./QRCodeGenerator";
 
 function HeartLetter() {
   const [opened, setOpened] = useState(false);
